@@ -1,0 +1,17 @@
+
+
+.container{
+    height: 80vh;
+    
+    
+}
+
+.bg-form{
+    background-color: rgba(255, 255, 255, 0.542);
+}
+
+.div-image{
+    width: 100%;
+    background-image: url("../assets/pexels-victorfreitas-841130.jpg");
+    background-size: cover;
+}

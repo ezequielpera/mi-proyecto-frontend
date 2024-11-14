@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "name":"Plan Beginner",
+        "description":"El plan de entrenamiento básico está diseñado para quienes están comenzando su viaje en el fitness o para aquellos que desean establecer una base sólida antes de pasar a rutinas más avanzadas. Este enfoque se centra en aprender la técnica adecuada, desarrollar resistencia y fuerza funcional, y fomentar hábitos saludables que apoyen un estilo de vida activo.",
+        "price":10000,
+        "img":"../src/assets/woman-6777444.jpg",
+        "color":"text-center text-dark"
+    },
+    {
+        "id":1,
+        "name":"Plan Intermediate",
+        "description":"El plan de entrenamiento intermedio es un enfoque diseñado para aquellos que ya tienen una base sólida en el fitness y desean llevar su rendimiento al siguiente nivel. Este tipo de plan se centra en mejorar la fuerza, la resistencia, la movilidad y la composición corporal, incorporando una variedad de métodos y técnicas que desafían al cuerpo de manera efectiva.",
+        "price":15000,
+        "img":"../src/assets/gym-3516208.jpg",
+        "color":"text-center text-success"
+    },
+    {
+        "id":2,
+        "name":"Plan Advanced",
+        "description":"El entrenamiento avanzado es un enfoque diseñado para atletas y entusiastas del fitness que buscan maximizar su rendimiento y alcanzar metas específicas. Este tipo de plan no solo se centra en la mejora de la fuerza y la resistencia, sino que también incorpora técnicas de periodización, nutrición adecuada y recuperación activa para optimizar cada sesión de entrenamiento.",
+        "price":22000,
+        "img":"../src/assets/barbell-1839086.jpg",
+        "color":"text-center text-danger"
+    }
+]
